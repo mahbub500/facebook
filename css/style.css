@@ -1,0 +1,232 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/*header start*/
+.wapper {
+    overflow: hidden;
+    background-color: #435B9C;
+  min-height: 50px;
+    
+}
+.logo{float: left;
+    margin-left: 83px;
+    
+}
+.logo img {
+    height: 100%;
+    width: 100%;
+}
+.log-in-form{
+    float: right;
+    color: white;
+    height: 50px;
+    width: 583px;
+    
+}
+.form-group{
+    float: left;
+    height: 79px;
+    width: 195px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.form-group-two {
+    float: right;
+    height: 79px;
+    width: 280px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-right: 6px;
+}
+.username {
+}
+.Password{  
+    color: white;
+    width: 4px;
+    height: 60px;
+}
+/*header end*/
+
+/*content start */
+.content{
+    background-color: #EBEDF4;
+    overflow: hidden;
+    min-height: 580px;
+}
+.wapper-two {
+    overflow: hidden;
+    width: 1100px;
+    height: 700px;
+    margin: 0 auto;
+}
+.content-left { 
+        min-height: 525px;
+    width: 500px;
+    float: left;
+    padding-left: 60px;
+    margin-top: 91px;
+}
+.content-left h1{
+    color: #0A3551;
+    font-size: 22px;
+    font-family: sans-serif;
+    width: 94%;
+}
+.logo-two{
+    width: 500px;
+    height: 245px;
+}
+.logo-two img{
+     width: 100%;
+    height: 100%;
+    
+}
+.content-right{
+    min-height: 525px;
+    width: 430px;
+    float: right;
+    margin-right: 60px;
+    margin-top: 61px;
+    border-bottom: 0.5px solid darkgray;
+    overflow: hidden;
+}
+.text-two {
+    
+}
+.text-two h1 {
+    font-size: 35px;
+    margin-top: 22px;
+    margin-bottom: 7px;
+    color: #333333;
+    font-family: sans-serif
+    
+}
+.text-two h5{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333333;
+    font-family: sans-serif
+}
+.sign-up-form {
+    
+}
+
+.firstname{ 
+    width: 47%;
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    float: left;
+    
+}
+.lastname {
+    width: 47%;
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    float: left;
+}
+.Mobile {
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    width: 99%;
+    height: 45px;
+    margin-top: 8px;
+}
+.password-two{
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    width: 99%;
+    height: 45px;
+    margin-top: 8px;
+}
+.birthday{
+    color: #333333;
+    font-family: sans-serif;
+}
+.birthday h5{
+    color: #333333;
+    font-family: sans-serif;
+    width: 115px;
+    
+    margin-top: 10px;
+    font-size: 25px;
+}
+.date { 
+    margin-top: 6px;
+    padding: 2% 1.5%;
+    border-radius: 2px;
+    border: 0.5px solid lightblue;
+    
+}
+.month { 
+    margin-top: 6px;
+    padding: 2% 1.5%;
+    border-radius: 2px;
+    border: 0.5px solid lightblue;
+    
+}
+.year{ 
+    margin-top: 6px;
+    padding: 2% 1.5%;
+    border-radius: 2px;
+    border: 0.5px solid lightblue;
+    
+}
+.birthday-last{
+    color: blue;
+    font-size: 10px;
+    
+}
+.gender{
+  margin-top: 20px;
+    margin-left: 12px;
+    
+}
+.paragraph{
+    margin-top: 4%;
+    width: 329px;
+    font-size: 13px;
+    color: #838383;
+    margin-bottom: 5%;
+}
+
+.blue {
+    color: #375592;
+}
+.sign-up{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    width: 180px;
+    margin-bottom: 22px;
+    margin-left: 60px;
+    height: 45px;
+    font-size: 23px;
+}
+.fotter-text{
+    float: left;
+    width: 400px;
+    height: 51px;
+    margin-top: 4px;
+    margin-left: 104px;
+    font-size: 8px;
+    color: #838383;
+}
+.blue{
+   color:  #375592
+}
+
+
+/*content end*/
+
+
+
+
+
+
+
